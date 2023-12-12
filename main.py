@@ -84,6 +84,6 @@ for i in points_to_label:
 
 plt.legend()
 
-plt.show()
+#plt.show()
 
 plt.savefig("stock_price_predict_trend.png")
